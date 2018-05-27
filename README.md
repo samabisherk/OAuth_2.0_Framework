@@ -6,7 +6,7 @@
 <h3>To Execute</h3>
 
 <ul>
-        Change follwings
+        Change followings
         <li>In file "config.php" ->Change "app_id", "app_secret" accoding to your created FB App </li>
         <li>In file "login.php" -> Change "$redirectURL" to your own server location for the file "fbcallback.php". (Note your port address of the server)"
 </ul>
